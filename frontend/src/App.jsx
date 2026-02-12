@@ -1,7 +1,7 @@
 import {Route, BrowserRouter,Routes} from 'react-router-dom'
 import './App.css'
 import LandingPage from './pages/LandingPage'
-import Authentication from './pages/authentication'
+import Authentication from './pages/Authentication'
 import { AuthProvider } from './contexts/AuthContext'
 import VideoMeet from './pages/VideoMeet'
 import Homecomponent from './pages/Homecomponent'
