@@ -1,7 +1,7 @@
 import React, { useState,useRef, useEffect } from 'react'
 import styles from '../styles/videoComponent.module.css';
 import { Badge, IconButton, TextField } from '@mui/material';
-import VideocamIcon from '@mui/icons-material/VideoCam'
+import VideocamIcon from '@mui/icons-material/Videocam'
 import VideocamOffIcon from '@mui/icons-material/VideocamOff'
 import CallEndIcon from '@mui/icons-material/CallEnd'
 import MicIcon from '@mui/icons-material/Mic'
